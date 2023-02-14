@@ -1,0 +1,37 @@
+.productMainBlock {
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.productName {
+    padding-left: 10px;
+}
+
+.productImg img {
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    border-radius: 8px;
+}
+
+.check {
+    width: 112px;
+    margin: 0 auto;
+    padding: 8px 12px;
+    background-color: #EBF9F1;
+    color: #1F9254;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.no {
+    background-color: #FEF2E5;
+    color: #CD6200;
+    border-radius: 20px;
+    text-align: center;
+    width: 100px;
+    margin: 0 auto;
+    padding: 8px 12px;
+}

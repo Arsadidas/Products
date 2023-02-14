@@ -1,0 +1,72 @@
+.currMain {
+    max-width: 400px;
+    height: 500px;
+    background-color: #FFFF;
+    filter: drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+.modalCloseIcon {
+    position: absolute;
+    top: 12px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.currentTitle {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 28px;
+}
+
+.currentImage {
+    width: 360px;
+    margin: 0 auto;
+    height: 270px;
+    padding: 14px 0 14px;
+}
+
+
+.currentImage img {
+    width: 100%;
+    height: 100%;
+}
+
+.currentPrice {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding-bottom: 14px;
+}
+
+.currentDesc {
+    width: 360px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.currentCount {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 14px 0 14px;
+}
+
+.currentRef {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding-bottom: 25px;
+}
+
+.currentRef a {
+    color: black;
+
+}

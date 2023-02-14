@@ -1,0 +1,27 @@
+.inp {
+    position: relative;
+    margin: 10px 0 10px;
+}
+
+.inp input {
+    width: 900px;
+    padding: 10px 0 10px 25px;
+    outline: none;
+    border-color: #9E9E9E;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 17px;
+}
+
+.loop {
+    position: absolute;
+    top: 4px;
+    left: 8px;
+    padding-top: 8px;
+}
+
+.loop svg {
+    width: 15px;
+    height: 15px;
+}
